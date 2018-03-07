@@ -1,0 +1,57 @@
+body {
+	background-color: whitesmoke;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	background-color: #ececec;
+	align-items: center;
+	text-align: right;
+	padding: 2%;
+	margin-top: 3em;
+}
+form input {
+  border-radius: 5px;
+  border: 3px solid #d0d0d0;
+  padding: 1em;
+  width: 60%
+}
+
+form label {
+	font-size: small;
+	margin-right: 1%;
+}
+
+.error {
+	color: #ff0052;
+	font-size: small;
+	font-weight: bold;
+}
+
+form button {
+	padding: 1em;
+	background-color: #f72452;
+	border: 0;
+	color: white;
+}
+
+.product {
+	display: flex;
+	border: 1px solid #d4d4d4;
+	margin: 1%;
+	border-radius: 5px;
+}
+
+.category {
+	font-size: small;
+	font-weight: bold;
+}
+
+.product-name {
+	color: #ff0052;
+}
+
+.home {
+	padding: 8%;
+}

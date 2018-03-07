@@ -1,0 +1,22 @@
+Web Test 
+
+Thank you for taking the time to do our technical test.
+
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Send us the uploaded file link.
+
+one folder containing the coding test
+
+Coding Test
+
+Create an HTML file that has a login form with a username and password. Use semantic, accessible and valid mark-up.
+Style the form so that labels are to the left of the fields and inputs are to the right of the fields.
+Validate the form so that fields are required and password should be at minimum 8 characters.
+Use external scripts and css files.
+Page should be responsive.
+Should be implemented with the javascript framework of preference. AngularJS, Angular, React, Vuejs, JQuery, etc.
+
+Once the user press the sign in, take the user to a product page.
+Create a list of products showing a picture, the product category and product name.
+On the product list, show the image on the left and category and name on the right, where category will be on top of the name.
+Avoid to use an html table and try to create a reusable components. Assume the same product display will be used somewhere.
+Take the data from the provided json file.
