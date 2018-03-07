@@ -1,6 +1,6 @@
 # Workride-Test
 
-A simplist (although demostrative) app developed in React.
+A simple (although demostrative) app developed in React.
 
 # Demo
 [Try Demo on Heroku](https://workride.herokuapp.com/)
