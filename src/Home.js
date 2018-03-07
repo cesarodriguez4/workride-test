@@ -12,7 +12,7 @@ class Home extends React.Component {
     return (
       <div className="home">
         <h1>Product Page</h1>
-        <Link to="sign">Back to Sign Page</Link>
+        <Link to="/">Back to Sign Page</Link>
         {
           file.products.map(i => {
             return <List key={uid()} data={i}/>
